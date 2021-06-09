@@ -1,4 +1,5 @@
 *.zip
+*practice*
 
 .ipynb_checkpoints
 Dataset
