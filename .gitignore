@@ -1,5 +1,11 @@
+## 확장자 제외
 *.zip
-*practice*
 
+## 주피터 파일
+# 연습 파일
+*practice.ipynb 
 .ipynb_checkpoints
+
+# 데이터
 Dataset
+data
