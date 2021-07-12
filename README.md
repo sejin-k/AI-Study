@@ -1,4 +1,6 @@
-# DeepLearning-study
+<div align = 'center'>
+<h1>AI-Study</h1>
+</div>
 
 <!--
 ## Supervised Learning
