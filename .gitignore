@@ -1,11 +1,16 @@
-## 확장자 제외
+# 확장자 제외
 *.zip
 
+# 파일
 ## 주피터 파일
-# 연습 파일
+### 연습 파일
 *practice.ipynb 
 .ipynb_checkpoints
+## 딥러닝 모델
+*.h5
+
 
 # 데이터
 Dataset
 data
+
